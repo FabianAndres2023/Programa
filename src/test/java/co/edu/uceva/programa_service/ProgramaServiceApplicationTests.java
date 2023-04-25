@@ -1,4 +1,4 @@
-package com.example.programa_service;
+package co.edu.uceva.programa_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
