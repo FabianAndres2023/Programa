@@ -1,0 +1,68 @@
+[
+    {
+        "id": 10587,
+        "nombre": "Ingenieria de Sistemas",
+	"facultad": "Ingenieria",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2023/03/BannerFacultadIngenierias.jpg"
+    },
+    {
+       "id": 105257,
+        "nombre": "Ingenieria Agropecuaria",
+	"facultad": "Ingenieria",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2023/03/BannerFacultadIngenierias.jpg"
+    },
+    { 
+	"id": 54625,
+        "nombre": "Ingenieria Electronica",
+	"facultad": "Ingenieria",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2023/03/BannerFacultadIngenierias.jpg"
+    },
+    {
+        "id": 3854,
+        "nombre": "Ingenieria Industrial",
+	"facultad": "Ingenieria",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2023/03/BannerFacultadIngenierias.jpg"
+    },
+    {
+        "id": 2543,
+        "nombre": "Ingenieria Ambiental",
+	"facultad": "Ingenieria",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2023/03/BannerFacultadIngenierias.jpg"
+    },
+      { 
+	"id": 1762,
+        "nombre": "Derecho",
+	"facultad": "Ciencias Juridicas y Humanisticas",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2020/12/FACULTAD-DE-CIENCIA-JUR%C3%8DDICAS.jpg"
+    },
+    {
+        "id": 108015,
+        "nombre": "Psicologia",
+	"facultad": "Ciencias Juridicas y Humanisticas",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2020/12/FACULTAD-DE-CIENCIA-JUR%C3%8DDICAS.jpg"
+    },
+    {
+        "id": 1763,
+        "nombre": "Administracion de Empresas",
+	"facultad": "Ciencias administrativas, economicas y contables",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2020/11/ADMINISTRACI%C3%93N-DE-EMPRESAS.jpg"
+    },
+    { 
+	"id": 1764,
+        "nombre": "Contabilidad",
+	"facultad": "Ciencias administrativas, economicas y contables",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2020/12/FACULTAD-DE-CIENCIA-JUR%C3%8DDICAS.jpg"
+    },
+    {
+        "id": 7309,
+        "nombre": "Medicina",
+	"facultad": "Ciencias de la Salud",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2023/02/BannerFacultadSalud.jpg"
+    },
+    {
+        "id": 2542,
+        "nombre": "Enfermeria",
+	"facultad": "Ciencias de la Salud",
+        "imagen": "https://www.uceva.edu.co/wp-content/uploads/2023/02/BannerFacultadSalud.jpg"
+    }
+]
